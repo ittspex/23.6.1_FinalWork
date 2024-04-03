@@ -1,13 +1,13 @@
-Телеграм-бот для конвертации валют. Имя в телеграме telegabot777
+Telegram bot for currency conversion. Telegram name telegabot777
 
-Телеграм-бот имеет команды:
+Telegram bot has commands:
 
-1./start выдает сообщение и пишет, как правильно вводить параметры для конвертации и даёт имеющиеся команды;
+1./start displays a message and writes how to correctly enter parameters for conversion and gives the available commands;
 
-2./help выдает сообщение и пишет, как правильно вводить параметры для конвертации и даёт имеющиеся команды;
+2./help displays a message and writes how to correctly enter parameters for conversion and gives the available commands;
 
-3./values выписывает все валюты, которые знает бот;
+3./values ​​lists all the currencies that the bot knows;
 
-4.<валюта 1> <валюта 2> <количество> выводит значение количества валюты 2 от валюты 1.
+4.<currency 1> <currency 2> <quantity> displays the quantity value of currency 2 from currency 1.
 
-Данный бот не запущен, необходимо запустить бот со своего устройства (загрузить данный репозиторий на свой компьютер) Для работы с данным телеграм-ботом необходимо установить пакеты requests и PyTelegramBotAPI .
+This bot is not running, you need to launch the bot from your device (download this repository to your computer). To work with this telegram bot, you need to install the requests and PyTelegramBotAPI packages.
